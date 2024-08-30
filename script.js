@@ -105,4 +105,5 @@ themeToggleIcon.addEventListener("click", function () {
     themeToggleIcon.src = "Images/navbar/moon.png";
     themeToggleLogo.src="Images/logo/Logo-Light.png";
   }
+  console.log("Food Ordering Web");
 });
